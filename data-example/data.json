@@ -1,0 +1,84 @@
+{
+  "inventory": [
+    {
+"WREF": "B59444S",
+"WREF_NUM": "B59444S_41",
+"WTALLA": 41,
+"WPARES": 1,
+"WPVP": "59.00",
+"WREB": ""
+},
+{
+"WREF": "B59444S",
+"WREF_NUM": "B59444S_40",
+"WTALLA": 40,
+"WPARES": 2,
+"WPVP": "59.00",
+"WREB": ""
+},
+{
+"WREF": "B59444S",
+"WREF_NUM": "B59444S_39",
+"WTALLA": 39,
+"WPARES": 3,
+"WPVP": "59.00",
+"WREB": ""
+},
+{
+"WREF": "B59444S",
+"WREF_NUM": "B59444S_38",
+"WTALLA": 38,
+"WPARES": 2,
+"WPVP": "59.00",
+"WREB": "40.00"
+},
+{
+"WREF": "B59444S",
+"WREF_NUM": "B59444S_37",
+"WTALLA": 37,
+"WPARES": 2,
+"WPVP": "59.00",
+"WREB": "30.00"
+},
+{
+"WREF": "B59444S",
+"WREF_NUM": "B59444S_36",
+"WTALLA": 36,
+"WPARES": 1,
+"WPVP": "59.00",
+"WREB": "20.00"
+},
+{
+"WREF": "B58118S",
+"WREF_NUM": "B58118S_40",
+"WTALLA": 40,
+"WPARES": 1,
+"WPVP": "125.00",
+"WREB": "99.00"
+},
+{
+"WREF": "B58118S",
+"WREF_NUM": "B58118S_39",
+"WTALLA": 39,
+"WPARES": 2,
+"WPVP": "125.00",
+"WREB": "99.00"
+},
+{
+"WREF": "B58118S",
+"WREF_NUM": "B58118S_38",
+"WTALLA": 38,
+"WPARES": 2,
+"WPVP": "125.00",
+"WREB": "99.00"
+},
+{
+"WREF": "B58118S",
+"WREF_NUM": "B58118S_37",
+"WTALLA": 37,
+"WPARES": 1,
+"WPVP": "125.00",
+"WREB": "99.00"
+}
+  ]
+}
